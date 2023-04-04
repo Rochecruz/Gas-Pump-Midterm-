@@ -1,0 +1,44 @@
+C:\Users\Rochelle Cruz\source\repos\Fuel Pump\bin\Debug\Fuel Pump.exe.config
+C:\Users\Rochelle Cruz\source\repos\Fuel Pump\bin\Debug\Fuel Pump.exe
+C:\Users\Rochelle Cruz\source\repos\Fuel Pump\bin\Debug\Fuel Pump.pdb
+C:\Users\Rochelle Cruz\source\repos\Fuel Pump\obj\Debug\Fuel Pump.csproj.AssemblyReference.cache
+C:\Users\Rochelle Cruz\source\repos\Fuel Pump\obj\Debug\Fuel Pump.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rochelle Cruz\source\repos\Fuel Pump\obj\Debug\Fuel_Pump.Form1.resources
+C:\Users\Rochelle Cruz\source\repos\Fuel Pump\obj\Debug\Fuel_Pump.Properties.Resources.resources
+C:\Users\Rochelle Cruz\source\repos\Fuel Pump\obj\Debug\Fuel Pump.csproj.GenerateResource.cache
+C:\Users\Rochelle Cruz\source\repos\Fuel Pump\obj\Debug\Fuel Pump.csproj.CoreCompileInputs.cache
+C:\Users\Rochelle Cruz\source\repos\Fuel Pump\obj\Debug\Fuel Pump.exe
+C:\Users\Rochelle Cruz\source\repos\Fuel Pump\obj\Debug\Fuel Pump.pdb
+C:\Users\Rochelle Cruz\source\repos\Fuel Pump\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Rochelle Cruz\source\repos\Fuel Pump\obj\Debug\Fuel_Pump.MenuForm.resources
+C:\Users\Rochelle Cruz\source\repos\Fuel Pump\obj\Debug\Fuel Pump.csproj.CopyComplete
+C:\Users\Rochelle Cruz\source\repos\Fuel Pump\obj\Debug\Fuel_Pump.AccountDetailsForm.resources
+C:\Users\Rochelle Cruz\source\repos\Fuel Pump\obj\Debug\Fuel_Pump.DeductionForm.resources
+C:\Users\Rochelle Cruz\source\repos\Fuel Pump\obj\Debug\Fuel_Pump.InventoryForm.resources
+C:\Users\Rochelle Cruz\source\repos\Fuel Pump\obj\Debug\Fuel_Pump.paymentForm.resources
+C:\Users\Rochelle Cruz\source\repos\Fuel Pump\obj\Debug\Fuel_Pump.receiptForm.resources
+C:\Users\Rochelle Cruz\source\repos\Fuel Pump\obj\Debug\Fuel_Pump.UpdatedAccountDetailsForm.resources
+C:\Users\pc user\Desktop\FuelPumpStation-main\Fuel Pump\bin\Debug\Fuel Pump.exe.config
+C:\Users\pc user\Desktop\FuelPumpStation-main\Fuel Pump\bin\Debug\Fuel Pump.exe
+C:\Users\pc user\Desktop\FuelPumpStation-main\Fuel Pump\bin\Debug\Fuel Pump.pdb
+C:\Users\pc user\Desktop\FuelPumpStation-main\Fuel Pump\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\pc user\Desktop\FuelPumpStation-main\Fuel Pump\obj\Debug\Fuel Pump.csproj.AssemblyReference.cache
+C:\Users\pc user\Desktop\FuelPumpStation-main\Fuel Pump\obj\Debug\Fuel Pump.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc user\Desktop\FuelPumpStation-main\Fuel Pump\obj\Debug\Fuel_Pump.AccountDetailsForm.resources
+C:\Users\pc user\Desktop\FuelPumpStation-main\Fuel Pump\obj\Debug\Fuel_Pump.DeductionForm.resources
+C:\Users\pc user\Desktop\FuelPumpStation-main\Fuel Pump\obj\Debug\Fuel_Pump.Form1.resources
+C:\Users\pc user\Desktop\FuelPumpStation-main\Fuel Pump\obj\Debug\Fuel_Pump.InventoryForm.resources
+C:\Users\pc user\Desktop\FuelPumpStation-main\Fuel Pump\obj\Debug\Fuel_Pump.MenuForm.resources
+C:\Users\pc user\Desktop\FuelPumpStation-main\Fuel Pump\obj\Debug\Fuel_Pump.paymentForm.resources
+C:\Users\pc user\Desktop\FuelPumpStation-main\Fuel Pump\obj\Debug\Fuel_Pump.Properties.Resources.resources
+C:\Users\pc user\Desktop\FuelPumpStation-main\Fuel Pump\obj\Debug\Fuel_Pump.receiptForm.resources
+C:\Users\pc user\Desktop\FuelPumpStation-main\Fuel Pump\obj\Debug\Fuel_Pump.UpdatedAccountDetailsForm.resources
+C:\Users\pc user\Desktop\FuelPumpStation-main\Fuel Pump\obj\Debug\Fuel Pump.csproj.GenerateResource.cache
+C:\Users\pc user\Desktop\FuelPumpStation-main\Fuel Pump\obj\Debug\Fuel Pump.csproj.CoreCompileInputs.cache
+C:\Users\pc user\Desktop\FuelPumpStation-main\Fuel Pump\obj\Debug\Fuel Pump.csproj.CopyComplete
+C:\Users\pc user\Desktop\FuelPumpStation-main\Fuel Pump\obj\Debug\Fuel Pump.exe
+C:\Users\pc user\Desktop\FuelPumpStation-main\Fuel Pump\obj\Debug\Fuel Pump.pdb
+C:\Users\NC CLC PC4\Desktop\Gas Pump\Fuel Pump\obj\Debug\Fuel Pump.csproj.AssemblyReference.cache
+C:\Users\NC CLC PC4\Desktop\Gas Pump\Fuel Pump\obj\Debug\Fuel Pump.csproj.SuggestedBindingRedirects.cache
+C:\Users\NC CLC PC4\Desktop\Gas Pump\Fuel Pump\obj\Debug\Fuel Pump.exe
+C:\Users\NC CLC PC4\Desktop\Gas Pump\Fuel Pump\obj\Debug\Fuel Pump.pdb
